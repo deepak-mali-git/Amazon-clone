@@ -1,0 +1,37 @@
+
+.account-div{
+    text-align: center;
+    font-weight: normal;
+    margin-top: 15rem;
+}
+
+.account-div h3{
+    /* border: 1px solid rgba(0, 0, 0, 0.425); */
+    /* padding: 1rem 1.8rem;
+    border-radius: 4px; */
+    display: inline-block;
+}
+
+.blue-text{
+    color: rgba(0, 0, 255, 0.658);
+}
+
+.account-div button{
+    margin: 1px auto;
+    padding: .8rem 1.5rem;
+    /* margin-top: 1rem; */
+    font-size: 1.2rem;
+    background-color: rgb(13, 56, 73);
+    border: 1px solid gray;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all .3s ease;
+    display: block;
+}
+
+.account-div button:hover{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    box-shadow: 0px 6px 40px 10px rgba(38, 0, 255, 0.068);
+}
