@@ -23,6 +23,8 @@ This project is a clone of the Amazon website, aiming to replicate its main feat
 3. Set up environment variables for MongoDB connection and authentication.
 4. Run the application using `npm start`.
 
+5. and create .env file in api and client folder and replace there respective pats to mongodb and localhost or server-path
+
 ## Usage
 
 - Navigate to the project directory and run the server using `npm start`.
